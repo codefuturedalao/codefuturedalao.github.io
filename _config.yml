@@ -3,7 +3,7 @@ title: Jackson Blog
 SEOTitle: 桑乾龙的博客 | Jackson Blog
 header-img: img/post-bg-desk.jpg
 email: 985438046@qq.com 
-description: "Every failure is leading towards success."
+description: "Carpe Diem."
 keyword: "Jackson, 桑乾龙的博客, matlab, java, GIS, C"
 url: "https://codefuturedalao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/codefuturedalao/codefuturedalao.github.io.git" 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Stay foolish,Stay hungry!"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

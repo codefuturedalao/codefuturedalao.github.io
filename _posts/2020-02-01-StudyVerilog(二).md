@@ -28,7 +28,7 @@ tags:                               #标签
 
       >  x、z不区分大小写，0x1z和0X1Z是等价的。
 
-![1580616231048](../img/verilogConstant.png)
+![1580616231048](http://sql.icrystal.top/verilogConstant.png)
 
 	> 下划线符号_可以自由地在整数或实数中使用，增加易读性。
 

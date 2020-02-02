@@ -13,7 +13,7 @@ tags:                               #标签
 
 # 典型设计流程
 
-![1580615942635](../img/verilogProcess.png)
+![1580615942635](http://sql.icrystal.top/verilogProcess.png)
 
 Verilog中设计者在每个模块内部可以在4个抽象层次中进行描述
 

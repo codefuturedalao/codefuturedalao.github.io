@@ -198,5 +198,5 @@ tags:                               #标签
 
 # 第九章 结构建模
 
-![1580653207365](../img/moduleConnect.png)
+![1580653207365](http://sql.icrystal.top/moduleConnect.png)
 

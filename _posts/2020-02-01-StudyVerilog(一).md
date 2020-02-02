@@ -13,39 +13,18 @@ tags:                               #标签
 
 ## # 典型设计流程
 
-```flow
-st=>start: 开始
-op=>operation: 设计要求说明
-op1=>operation: 行为描述
-op2=>operation: RTL级描述
-op3=>operation: 功能验证和测试
-op4=>operation: 逻辑综合/时序验证
-op5=>operation: 门级网表
-op6=>operation: 逻辑验证和测试
-op7=>operation: 版图规划和自动布局布线
-op8=>operation: 物理版图
-op9=>operation: 版图验证
-op10=>operation: 实现
-e=>end
-st->op->op1->op2->op3->op4->op5->op6->op7->op8->op9->op10->e
+![1580615942635](../img/verilogProcess.png)
 
-​```
-
-
-```
-
- Verilog中设计者在每个模块内部可以在4个抽象层次中进行描述
+Verilog中设计者在每个模块内部可以在4个抽象层次中进行描述
 
 * 行为或算法级
 * 数据流级
 * 门级
 * 开关级
 
-
-
 ​	在数字电路设计中，术语**寄存器传输级（RTL）描述**在很多情况下时能够被逻辑综合工具接受的行为级和数据流级的混合描述。
 
-（寄存器传输级与行为级区别可见https://blog.csdn.net/a8039974/article/details/43635257)
+（寄存器传输级与行为级区别可见<https://blog.csdn.net/a8039974/article/details/43635257>)
 
 ​	设计者只需要说明数据信息是如何在寄存器之间移动以及如何被处理的，而构成电路的逻辑门极其相互之间的连接数据（资料）由逻辑综合工具自动地从RTL描述中提取出来。
 

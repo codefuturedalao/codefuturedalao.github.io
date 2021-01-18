@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 0a236f6c53d350396686 #生成的clientID
-  clientSecret: b0295f25853ba5d9a4338b4db2b1f2209263aadc #生成的clientSecret
-  repo: codefuturedalao.github.io    #仓库名称
-  owner: codefuturedalao    #github用户名
-  admin: codefuturedalao 
+  clientID: '0a236f6c53d350396686' #生成的clientID
+  clientSecret: 'b0295f25853ba5d9a4338b4db2b1f2209263aadc' #生成的clientSecret
+  repo: 'codefuturedalao.github.io'    #仓库名称
+  owner: 'codefuturedalao'    #github用户名
+  admin: ['codefuturedalao']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

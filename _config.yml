@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: cd1b4fbfbed49eacc6f5 #生成的clientID
-  clientSecret: 3e5d2b98cff14f4bb41dcd5a08f9cf827dacb00f #生成的clientSecret
+  clientID: 0a236f6c53d350396686 #生成的clientID
+  clientSecret: b0295f25853ba5d9a4338b4db2b1f2209263aadc #生成的clientSecret
   repo: codefuturedalao.github.io    #仓库名称
   owner: codefuturedalao    #github用户名
   admin: codefuturedalao 
